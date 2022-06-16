@@ -5,7 +5,7 @@ void setup() {
   size(360, 360);
   
   // loads image
-  img = loadImage("anya.jpg");
+  img = loadImage("./assets/anya.jpg");
   img.loadPixels();
 }
 
